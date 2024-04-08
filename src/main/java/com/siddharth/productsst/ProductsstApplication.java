@@ -8,6 +8,7 @@ public class ProductsstApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(ProductsstApplication.class, args);
+        Product product = new Product();
     }
 
 }
